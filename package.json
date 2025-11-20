@@ -4,6 +4,7 @@
   "main": "index.js",
   "dependencies": {
     "@google/genai": "^1.28.0",
+    "@vercel/node": "^5.5.7",
     "accepts": "^2.0.0",
     "body-parser": "^2.2.0",
     "bytes": "^3.1.2",
